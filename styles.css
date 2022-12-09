@@ -474,7 +474,7 @@
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .android {
-    width: 70%;
+    width: 50%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .ds {
@@ -490,7 +490,7 @@
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-    width: 85%;
+    width: 90%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
@@ -498,11 +498,11 @@
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .dbms {
-    width: 50%;
+    width: 80%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .html-css-js {
-    width: 70%;
+    width: 50%;
   }
   
   .stat-title {
